@@ -17,7 +17,7 @@ My skills are tailored to the biological sciences, including proficiency in:
 - Data Analysis: Ecological Competition, Weather and Climate
 - Field Research: Collection of North American Ticks
 - Software Tools: ArcGis, R, Java
-- 
+  
 ## Projects
 
 I am passionate about both building and contributing to open-source projects. Here are a few notable projects I've been involved in:

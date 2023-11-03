@@ -1,6 +1,6 @@
 # Joseph D. Webb
 
-Greetings, I'm Joe, a dedicated biologist currently based in Vermont. Welcome to my GitHub profile.
+Hi there! I'm Joe, a dedicated biologist currently based in Vermont. Welcome to my GitHub profile.
 
 ## About Me
 

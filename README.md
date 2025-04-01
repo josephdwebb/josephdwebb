@@ -1,11 +1,12 @@
 # Joseph D. Webb
 
-Hi there! I'm Joe, a dedicated biologist currently based in Vermont. Welcome to my GitHub profile.
+Hi there! I'm Joe, a dedicated biologist currently based in Boston. Welcome to my GitHub profile.
 
 ## About Me
 
-- I am an Honors Undergraduate Researcher at the University of Vermont.
-- I am pursuing a Bachelor of Arts in Biology with a minor in Chemistry.
+- I am an Graduate Researcher at Brigham and Women's Hospital.
+- I am completing my Master's in Medical Sciences at Boston Univerisity.
+- I have a Bachelors of Arts in Biology and a minor in Chemistry from the University of Vermont. 
 - My commitment lies in continuous learning and staying up-to-date with the latest advancements in biological research, data analysis, and laboratory techniques.
 - I firmly believe in the transformative potential of technology in addressing complex biological challenges and contributing to the advancement of scientific knowledge.
 
